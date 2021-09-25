@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thyago</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-- ⚙️ I’m currently working as IT assistant in a company of my city.
+- ⚙️ I’m currently working as IT assistant in a company in my city.
 
 - 👨‍💻 I’m currently developing a [Catalog Online](https://github.com/Thyago-Oliveira-Perez/Femina.git)
 
