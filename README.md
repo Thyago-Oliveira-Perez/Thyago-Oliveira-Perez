@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thyago</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-- 👨‍💻 I’m currently working on [Femina´s Catalog Online](https://github.com/Thyago-Oliveira-Perez/Femina.git)
+- ⚙️ I’m currently working as IT assistant in a company of my city.
 
-- 📚 I’m currently learning **Html5, CSS3 and JS**
+- 👨‍💻 I’m currently developing a [Catalog Online](https://github.com/Thyago-Oliveira-Perez/Femina.git)
+
+- 📚 I’m currently learning **Html5, CSS3, JS and Java**
 
 - 🔭 I’m looking to collaborate on **Front-End projects**
 
