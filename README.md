@@ -3,11 +3,9 @@
 
 - ⚙️ I’m currently working as IT assistant in a company in my city.
 
-- 👨‍💻 I’m currently developing a [Catalog Online](https://github.com/Thyago-Oliveira-Perez/Femina.git)
+- 📚 I’m currently learning **React.js and Java**
 
-- 📚 I’m currently learning **Html5, CSS3, JS and Java**
-
-- 🔭 I’m looking to collaborate on **Front-End projects**
+- 🔭 I’m looking to collaborate on **Front-End and Back-End projects**
 
 - ✔️ I've already worked with **C, Arduino and Python**
 
