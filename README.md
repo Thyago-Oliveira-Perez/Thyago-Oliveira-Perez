@@ -1,6 +1,5 @@
 ## Olá, eu sou o Thyago. 
-Atualmente Estudante de Engenharia de Software e 
-Estagiando como de Desenvolvedor Web. 
+
 <div align="center">
   <a href="https://github.com/Thyago-Oliveira-Perez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thyago-Oliveira-Perez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
