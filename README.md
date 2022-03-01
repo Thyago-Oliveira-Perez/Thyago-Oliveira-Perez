@@ -17,7 +17,7 @@ Estudante de Engenharia de Software e Dev. Full-Stack em formação.
 </div>
   
 <div style="display: inline_block"><br>
-    <h2>Linguagens que estou me aperfeiçoando/estudando:</h2>
+    <h2>Tecnologias que estou me aperfeiçoando/estudando:</h2>
     <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
