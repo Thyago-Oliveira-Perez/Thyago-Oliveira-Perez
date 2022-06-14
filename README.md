@@ -1,5 +1,5 @@
-## Olá, eu sou o Thyago. 
-Estudante de Engenharia de Software e Dev. Full-Stack em formação. 
+## Hy, I'm Thyago. 
+Software Engineering and Full-Stack Developer in formation. 
 <div align="center">
   <a href="https://github.com/Thyago-Oliveira-Perez">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thyago-Oliveira-Perez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@ Estudante de Engenharia de Software e Dev. Full-Stack em formação.
 </div>
   
 <div style="display: inline_block"><br>
-  <h2>Linguagens/Tecnologias que possuo conhecimento:</h2>
+  <h2>Program Languages/Technologies that I have already worked:</h2>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arduino" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -19,7 +19,7 @@ Estudante de Engenharia de Software e Dev. Full-Stack em formação.
 </div>
   
 <div style="display: inline_block"><br>
-    <h2>Tecnologias que estou me aperfeiçoando/estudando:</h2>
+    <h2>Technologies I'm studying/improving:</h2>
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -31,7 +31,7 @@ Estudante de Engenharia de Software e Dev. Full-Stack em formação.
   
 <div>
   <h2>
-    Contatos:
+    Contacts:
   </h2>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thyagodoliveiraperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
