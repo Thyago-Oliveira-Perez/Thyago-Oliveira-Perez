@@ -19,7 +19,7 @@ Software Engineering and Full-Stack Developer in formation.
 </div>
   
 <div style="display: inline_block"><br>
-    <h2>Technologies I'm studying/improving:</h2>
+    <h2>Technologies I'm studying/improving now:</h2>
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
