@@ -26,7 +26,7 @@ Software Engineering and Full-Stack Developer in formation.
     <h2>Technologies I'm studying/improving in the moment:</h2>
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  </div>
+</div>
   
   ##
   
