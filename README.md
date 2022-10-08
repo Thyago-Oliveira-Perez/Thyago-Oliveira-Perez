@@ -1,5 +1,5 @@
 ## Hy, I'm Thyago. 
-Software Engineering and Full-Stack Developer in formation. 
+Full-Stack Developer and Software Engineering in formation. 
 <div align="center">
   <a href="https://github.com/Thyago-Oliveira-Perez">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thyago-Oliveira-Perez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
