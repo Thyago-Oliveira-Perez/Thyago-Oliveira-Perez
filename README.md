@@ -1,10 +1,12 @@
 ## Hy, I'm Thyago. 
 Full-Stack Developer and CyberSecurity student. 
-<div align="center">
-  <a href="https://github.com/Thyago-Oliveira-Perez">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thyago-Oliveira-Perez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago-Oliveira-Perez&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Thyago-Oliveira-Perez&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 <div style="display: inline_block"><br>
   <h2>My main stack of programing languages:</h2>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -33,17 +35,8 @@ Full-Stack Developer and CyberSecurity student.
 </div>
   
   ##
-  
-<div>
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
-| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago-Oliveira-Perez&theme=nord_dark) | 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Thyago-Oliveira-Perez&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabe  l=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-  
+<div>
   <h2>
     Contacts:
   </h2>
