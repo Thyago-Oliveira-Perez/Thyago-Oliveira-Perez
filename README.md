@@ -1,6 +1,6 @@
 ## Hy, I'm Thyago. 
 Full-Stack Developer and CyberSecurity student. 
-  
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
 | :-: | :-: | :-: |
 
@@ -9,6 +9,7 @@ Full-Stack Developer and CyberSecurity student.
 
 <div style="display: inline_block"><br>
   <h2>My main stack of programing languages:</h2>
+  
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,6 +19,7 @@ Full-Stack Developer and CyberSecurity student.
 </div>
 <div style="display: inline_block"><br>
   <h2>Programing languages and technologies that I have experience with:</h2>
+  
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -34,14 +36,10 @@ Full-Stack Developer and CyberSecurity student.
   <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
   
-  ##
-
 <div>
-  <h2>
-    Contacts:
-  </h2>
-  <a href = "mailto:thyagodoliveiraperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <h2>Contacts:</h2>
+  
+  <a href = "mailto:thyagodoliveiraperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thyago-de-oliveira-perez-0ab20720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://developers.google.com/profile/u/thyago-oliveira" target="_blank"><img src="https://img.shields.io/badge/Google-Developer-red?style=for-the-badge&logo=appveyor" target="_blank"></a>
 </div>
