@@ -1,6 +1,5 @@
 ## Hy, I'm Thyago. 
-Full-Stack Developer and enthusiast of CyberSecurity. 
-         
+Full-Stack Developer and enthusiast of CyberSecurity.        
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
 | :-: | :-: | :-: |
    
