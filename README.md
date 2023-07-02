@@ -1,4 +1,4 @@
-## Hy, I'm Thyago.    
+## Hy, I'm Thyago. 
 Software Engineering and enthusiast of CyberSecurity. 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
 | :-: | :-: | :-: | 
