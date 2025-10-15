@@ -16,7 +16,7 @@ Software Engineering and enthusiast of CyberSecurity.
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>Programing languages that I have experience with:</h2>
+  <h2>Technologies I have experience with:</h2>
   
   <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Dot Net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />   
