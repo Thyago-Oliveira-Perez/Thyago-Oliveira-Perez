@@ -1,38 +1,34 @@
-## Hy, I'm Thyago.
+# 👾 Thyago
 
 Software Engineering and enthusiast of CyberSecurity.
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thyago-Oliveira-Perez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thyago-Oliveira-Perez&theme=nord_dark) |
-| :-: | :-: | :-: |
+
+I’m a Software Engineer building backend services with .NET/C# and TypeScript (NestJS), usually around APIs, microservices, messaging, and data stores like SQL Server and MongoDB.
+
+I’m also a cybersecurity enthusiast: I read and study a lot in the area, and I’m gradually turning that into small practical projects.
+
+Right now I’m focused on system design and the fundamentals behind scalable, reliable, high-traffic systems. I code anything that helps me learn—study projects, prototypes, and small scripts.
+
+<div align="left">
+  <a href="">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thyago-de-oliveira-perez/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@thyagodoliveiraperez">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thyago-Oliveira-Perez&theme=nord_dark) |
+| :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago-Oliveira-Perez&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Thyago-Oliveira-Perez&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <div style="display: inline_block"><br>
-  <h2>My main stack:</h2>
-  <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Dot Net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-
-<div style="display: inline_block"><br>
-  <h2>Technologies I have experience with:</h2>
-  
-  <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Dot Net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />   
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Nestjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
-  
-<div>
-  <h2>Contacts:</h2>
-  
-  <a href = "mailto:thyagodoliveiraperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/thyago-de-oliveira-perez-0ab20720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://developers.google.com/profile/u/thyago-oliveira" target="_blank"><img src="https://img.shields.io/badge/Google-Developer-red?style=for-the-badge&logo=appveyor" target="_blank"></a>
+  <h2>Skills:</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,nestjs,py,azure,git,linux,kubernetes,docker" />
+    </a>
 </div>
