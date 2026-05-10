@@ -2,7 +2,7 @@
 
 Software Engineering and enthusiast of CyberSecurity.
 
-I’m a Software Engineer building backend services with .NET/C# and TypeScript (NestJS), usually around APIs, microservices, messaging, and data stores like SQL Server and MongoDB.
+I’m a Software Engineer building backend services with .NET/C# and TypeScript, usually around APIs, microservices, messaging, and data stores like PostgreSQL and MySQL.
 
 I’m also a cybersecurity enthusiast: I read and study a lot in the area, and I’m gradually turning that into small practical projects.
 
