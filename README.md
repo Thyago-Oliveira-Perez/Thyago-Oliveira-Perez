@@ -7,7 +7,7 @@
 ## 📌 About Me
 Software Engineering and enthusiast of CyberSecurity.
 
-I’m a Tech Lead building backend services with .NET/C# and TypeScript, usually around APIs, microservices, messaging, and data stores like PostgreSQL and MySQL.
+I’m a Software Engineer building backend services with .NET/C# and TypeScript, usually around APIs, microservices, messaging, and data stores like PostgreSQL and MySQL.
 
 I’m also a cybersecurity enthusiast: I read and study a lot in the area, and I’m gradually turning that into small practical projects.
 
@@ -19,7 +19,6 @@ Right now I’m focused on system design and the fundamentals behind scalable, r
 - Payments infrastructure — currently building nubrank, a study project modeling a payment gateway in Go with double-entry ledgering, idempotent transactions, and webhook delivery
 - High-throughput data platforms — MySQL/ClickHouse pipelines, caching strategies (Redis/Memcached), and Kubernetes-based deployments
 - .NET ecosystem — API design, MediatR-based application layers, and system design for scale
-- Technical hiring — building practical, fair coding assessments for backend roles
 
 
 ## 📊 GitHub Stats & Trophies
