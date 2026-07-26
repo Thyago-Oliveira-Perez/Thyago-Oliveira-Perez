@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29725414/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Thyago%20de%20Oliveira%20Perez&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Tech%20Lead&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
